@@ -1,4 +1,3 @@
-# reposiroty
 # Caricare i file HTML, qual'ora non ci fossero, su una cartella allo stesso livello del file python
 # Aprire il file con un compilatore
 # Modifica la riga 9   ###     app.config['MAIL_USERNAME'] = 'email@gmail.com'    ###    con l'email con la quale si vuole inviare il codice OPT
