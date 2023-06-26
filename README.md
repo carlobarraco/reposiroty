@@ -7,7 +7,10 @@
 # Funzionamento
  - Lanciare il programma, cliccare sul sull'indirizzo IP che viene generato, si aprirà una pagina HTML con la possibilità di inserire nome utente e password, se entrambi sono riconosciuti dal sistema verrà inviata automaticamente una mail contenente il codice OTP da inserire nella pagina che verrà visualizzata al momento del successo del login, se anche il codice OTP è corretto viene effettuato il Login completo
 
-# ![immagine](https://github.com/carlobarraco/reposiroty/assets/137286869/6afcc337-c10c-4240-a1f2-3860836f964b)
-# ![immagine](https://github.com/carlobarraco/reposiroty/assets/137286869/e63fdfef-3440-456b-b028-ebdd5fb31bdd)
-# ![immagine](https://github.com/carlobarraco/reposiroty/assets/137286869/c03627fc-74f3-40b3-81a2-9fa842213917)
+# Creazione del server dal compilatore
+![immagine](https://github.com/carlobarraco/reposiroty/assets/137286869/6afcc337-c10c-4240-a1f2-3860836f964b)
+# Pagina di login
+![immagine](https://github.com/carlobarraco/reposiroty/assets/137286869/e63fdfef-3440-456b-b028-ebdd5fb31bdd)
+# Pagina inserimento OTP
+ ![immagine](https://github.com/carlobarraco/reposiroty/assets/137286869/c03627fc-74f3-40b3-81a2-9fa842213917)
 
